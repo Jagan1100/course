@@ -14,7 +14,7 @@ ONLINE TRAINING  </font>
     <input type="checkbox" name="skill" value="Automation"  /t  >Automation 
     <marquee width=300 height=25 direction=right behavior=alternate scrollamount=5>
 <font color=blue face="Monotype Corsiva" size=5> Trainer is </font>
- <input type="submit" value= "div" </marquee>
+ <input type="submit" value= "divya" </marquee>
   </form>
  
 </body>
